@@ -17,7 +17,7 @@ https://intense-island-01116.herokuapp.com/
 
 
 ## Screenshot
-<img src="./images/screenshot.PNG" >
+<img src="./assets/screenshot.PNG" >
 
 ## License
 E-commerce backend is licensed under the MIT License.
